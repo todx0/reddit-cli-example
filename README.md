@@ -11,7 +11,7 @@ brew install astral-sh/tap/uv
 
 **Clone the repository and navigate to directory**
 ```bash
-git clone && cd
+git clone https://github.com/todx0/reddit-cli-example.git && cd reddit-cli-example
 ```
 
 **Create `.env` and edit secrets**
