@@ -2,8 +2,8 @@
 
 ## Installation
 
-**Install `uv`:**
-[Installation Instructions](https://docs.astral.sh/uv/getting-started/installation/)
+**Install `uv`:** 
+[Installation Instructions.](https://docs.astral.sh/uv/getting-started/installation/)
 
 **Clone the repository and navigate to directory:**
 ```bash
