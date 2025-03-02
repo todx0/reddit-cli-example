@@ -4,17 +4,17 @@
 
 **Install `uv`:**
 ```bash
-curl -LsSf [https://install.astral.sh](https://install.astral.sh) | sh
+curl -LsSf https://install.astral.sh | sh
 # Or if you have homebrew
 brew install astral-sh/tap/uv
 ```
 
-**Clone the repository and navigate to directory**
+**Clone the repository and navigate to directory:**
 ```bash
 git clone https://github.com/todx0/reddit-cli-example.git && cd reddit-cli-example
 ```
 
-**Create `.env` and edit secrets**
+**Create `.env` and edit secrets:**
 ```bash
 cp .env.example .env
 ```
