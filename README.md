@@ -5,8 +5,6 @@
 **Install `uv`:**
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
-# Or if you have homebrew
-brew install astral-sh/tap/uv
 ```
 
 **Clone the repository and navigate to directory:**
