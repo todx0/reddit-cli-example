@@ -3,9 +3,7 @@
 ## Installation
 
 **Install `uv`:**
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
+[Installation Instructions](https://docs.astral.sh/uv/getting-started/installation/)
 
 **Clone the repository and navigate to directory:**
 ```bash
